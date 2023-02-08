@@ -1,6 +1,8 @@
 # Jobly (backend)
 This is the backend of the Jobly job board project. It is an API made using Express.js.
 
+Deployed: https://web-production-d3f6.up.railway.app
+
 ## Routes
 * /auth
   * [POST] /auth/token 
